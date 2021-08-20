@@ -100,6 +100,7 @@ public class OrderController {
     public Integer deleteOrder(@PathVariable("orderno")String orderno ) {
         System.out.println("取消的订单 = " + orderno);
         Integer integer = orderService.deleteOrder(orderno);
+        System.out.println("更新订单成功");
         return integer;
     }
 
