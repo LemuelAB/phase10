@@ -1,0 +1,11 @@
+com\lagou\eduuserboot\entity\Token.class
+com\lagou\eduuserboot\entity\User.class
+com\lagou\eduuserboot\entity\UserDTO.class
+com\lagou\eduuserboot\entity\WxUser.class
+com\lagou\eduuserboot\service\Impl\UserServiceImpl.class
+com\lagou\eduuserboot\service\UserService.class
+com\lagou\eduuserboot\controller\WxLoginController.class
+com\lagou\eduuserboot\commons\HttpClientUtil.class
+com\lagou\eduuserboot\controller\UserController.class
+com\lagou\eduuserboot\mapper\UserMapper.class
+com\lagou\eduuserboot\EduUserBootApplication.class

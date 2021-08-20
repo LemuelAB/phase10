@@ -1,0 +1,3 @@
+com\lagou\edupayboot\controller\WxPayController.class
+com\lagou\edupayboot\EduPayBootApplication.class
+com\lagou\edupayboot\commons\PayConfig.class

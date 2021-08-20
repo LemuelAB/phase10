@@ -1,0 +1,13 @@
+com\lagou\educourseboot\entity\CourseMedia.class
+com\lagou\educourseboot\entity\Course.class
+com\lagou\educourseboot\mapper\CourseMapper.class
+com\lagou\educourseboot\entity\CourseLesson.class
+com\lagou\educourseboot\service\impl\CourseServiceImpl.class
+com\lagou\educourseboot\entity\CourseComment.class
+com\lagou\educourseboot\controller\CourseController.class
+com\lagou\educourseboot\entity\Teacher.class
+com\lagou\educourseboot\entity\ActivityCourse.class
+com\lagou\educourseboot\service\CourseService.class
+com\lagou\educourseboot\entity\CourseSection.class
+com\lagou\educourseboot\entity\CourseCommentFavoriteRecord.class
+com\lagou\educourseboot\EduCourseBootApplication.class

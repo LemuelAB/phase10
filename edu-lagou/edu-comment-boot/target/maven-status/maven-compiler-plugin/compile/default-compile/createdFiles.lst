@@ -1,0 +1,8 @@
+com\lagou\educommentboot\mapper\CourseCommentDao.class
+com\lagou\educommentboot\EduCommentBootApplication.class
+com\lagou\educommentboot\mapper\CourseCommentFavoriteRecordDao.class
+com\lagou\educommentboot\entity\CourseCommentFavoriteRecord.class
+com\lagou\educommentboot\service\impl\CommentServiceImpl.class
+com\lagou\educommentboot\entity\CourseComment.class
+com\lagou\educommentboot\controller\CommentController.class
+com\lagou\educommentboot\service\CommentService.class

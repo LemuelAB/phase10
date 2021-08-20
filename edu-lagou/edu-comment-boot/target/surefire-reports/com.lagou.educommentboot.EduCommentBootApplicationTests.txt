@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lagou.educommentboot.EduCommentBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.861 s - in com.lagou.educommentboot.EduCommentBootApplicationTests
