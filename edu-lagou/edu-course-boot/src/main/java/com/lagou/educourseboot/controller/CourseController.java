@@ -38,6 +38,7 @@ public class CourseController {
 //                }
 //            });
 //        }
+        System.out.println("查询到所有课程");
         return courseService.getAllCourse();
     }
 
